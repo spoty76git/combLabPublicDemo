@@ -1,0 +1,1 @@
+{"x_range": [0.0, 0.63], "y_range": [-0.04, 0.04], "z_range": [-0.04, 0.04], "variables": ["total-pressure", "density", "temperature", "total-temperature", "turb-kinetic-energy"], "num_points": 53448}

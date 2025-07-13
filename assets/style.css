@@ -1,0 +1,58 @@
+/*style.css*/
+
+#main-content-container {
+    width: 80%;
+}
+
+/* Main dropdown container */
+.darkly-dropdown .Select-control {
+    background-color: #222;
+    border-color: #444;
+    color: #fff;
+    border-radius: 4px;
+}
+
+/* Dropdown menu */
+.darkly-dropdown .Select-menu-outer {
+    background-color: #222;
+    border-color: #444;
+    color: #fff;
+}
+
+/* Selected item */
+.darkly-dropdown .Select-value-label {
+    color: #fff !important;
+}
+
+/* Input text */
+.darkly-dropdown .Select-input input {
+    color: #fff !important;
+}
+
+/* Dropdown options */
+.darkly-dropdown .VirtualizedSelectOption {
+    background-color: #222;
+    color: #fff;
+}
+
+/* Hovered option */
+.darkly-dropdown .VirtualizedSelectFocusedOption {
+    background-color: #375a7f;
+}
+
+/* Multi-select items */
+.darkly-dropdown .Select--multi .Select-value {
+    background-color: #375a7f;
+    border-color: #444;
+    color: #fff;
+}
+
+/* Arrow icon */
+.darkly-dropdown .Select-arrow-zone {
+    color: #fff;
+}
+
+/* Placeholder text */
+.darkly-dropdown .Select-placeholder {
+    color: #adb5bd !important;
+}
