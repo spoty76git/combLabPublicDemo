@@ -24,7 +24,7 @@ mkl-service==2.4.2
 narwhals==1.46.0
 nest_asyncio==1.6.0
 numexpr==2.10.1
-numpy==2.3.1
+numpy
 packaging==25.0
 pandas==2.2.3
 pip==25.1.1
