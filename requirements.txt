@@ -8,7 +8,7 @@ click==8.2.1
 colorama==0.4.6
 dash==3.0.4
 dash-bootstrap-components==2.0.3
-Flask==3.1.1
+Flask
 Flask-Login==0.6.3
 h2==4.2.0
 hpack==4.1.0
